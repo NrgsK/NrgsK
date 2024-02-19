@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/3d/7d/da/3d7dda277785f3afc0995bea3d0a9c41.gif)
+[![MasterHead](https://i.pinimg.com/originals/3d/7d/da/3d7dda277785f3afc0995bea3d0a9c41.gif)
 <h1 align="center">Hi 👋, I'm Nergis</h1>
 <h3 align="center">A passionate junior software developer from Turkiye</h3>
 
