@@ -1,5 +1,5 @@
 # 💫 About Me:
-😍 A passionate junior software developer from Turkiye<br>💻 Oracle SQL <br>
+😍 A passionate junior software developer from Turkiye<br>💻 Currently working on Oracle SQL <br>
 
 
 ## 🌐 Socials:
